@@ -1,0 +1,14 @@
+
+@font-face {
+    font-family: 'bebasregular';
+    src: url('bebas___-webfont.eot');
+    src: url('bebas___-webfont.eot?#iefix') format('embedded-opentype'),
+         url('bebas___-webfont.woff') format('woff'),
+         url('bebas___-webfont.ttf') format('truetype'),
+         url('bebas___-webfont.svg#bebasregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+h1,h2,h3,h4,h5,h6{font-family: 'bebasregular' !important;font-weight:normal !important;word-spacing:5px;}

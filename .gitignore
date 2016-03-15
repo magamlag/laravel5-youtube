@@ -1,0 +1,7 @@
+/storage
+/.idea
+/_ide_helper.php
+/vendor
+.env
+/bootstrap/cache/
+.env.example
